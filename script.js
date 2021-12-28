@@ -24,7 +24,7 @@ calculate.addEventListener("click",
     else {
         const delta = b * b - 4 * a * c;
         if (delta < 0) {
-            result.innerHTML = "No solution";
+            result.innerHTML = "No solution cos the deviant is negative";
         } else if (delta === 0) {
             b = -b / (2 * a);
         } else {
