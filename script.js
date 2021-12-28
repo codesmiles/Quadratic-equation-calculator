@@ -37,12 +37,3 @@ calculate.addEventListener("click",
 
  
 })
-
-
-
-// calculate.addEventListener(submit, () => {
-
-
-//  
-//   }
-// });
